@@ -1,0 +1,9 @@
+- model: usermanagers.user
+  pk: 5000
+  fields:
+    username: kylin
+    name: kylin
+    password: pbkdf2_sha256$20000$jBIDGPB2j5JT$orxqGgzzjzykColYm1BswPjgHOiERjZkcgkuVIkD2Hc=
+    email: kylin@kylin_ops.org
+    role: SU
+    is_active: 1
